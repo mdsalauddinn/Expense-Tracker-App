@@ -15,9 +15,10 @@ This is a beginner-friendly Android app built using **Java** and **XML layouts**
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
-<pre> com.example.expenseTracker/ │ ├── MainActivity.java # Displays all added expenses ├── addExpense.java # Activity to input new expense details ├── screen_splash.java # Splash screen logic │ ├── res/ │ ├── layout/ │ │ ├── activity_main.xml │ │ ├── activity_add_expense.xml │ │ └── screen_splash.xml │ │ │ ├── drawable/ │ │ │ ├── values/ │ │ └── strings.xml │ │ │ └── anim/ │ └── transition_x.xml # Entry animation </pre>
+```bash
+com.example.expenseTracker/ ├── MainActivity.java # Displays all added expenses ├── addExpense.java # Activity to input new expense details ├── screen_splash.java # Splash screen logic ├── res/ ├── layout/ ├── activity_main.xml ├── activity_add_expense.xml ├── screen_splash.xml ├── drawable/ ├── values/ ├── strings.xml ├── anim/ └── transition_x.xml # Entry animation
 
 ---
 
